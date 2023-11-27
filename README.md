@@ -1,3 +1,2 @@
-# prappti
-coding
+# prapp
 print("hello world")
